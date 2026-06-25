@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sans-toi-je-suis-rien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sans Toi Je Suis Rien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sans-toi-je-suis-rien/) |
+| **Get License** | [Commercial Licensing for Sans Toi Je Suis Rien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sans-toi-je-suis-rien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons bleus, ton parfum me poursuit
+> Dans la caisse, sans toi, je me perds dans la nuit
+> You know I want you, bébé, tu as volé mon cœur
+> Je tourne en rond, j'suis addict à ton odeur
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
