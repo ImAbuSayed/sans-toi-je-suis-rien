@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sans-toi-je-suis-rien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sans Toi Je Suis Rien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sans-toi-je-suis-rien/) |
+| **Get License** | [Obtain a Music License for Sans Toi Je Suis Rien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sans-toi-je-suis-rien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5933c6fcb6c4194cafc4d89a92f54823ee0b51841e18bcc005c3653c63ce4bef` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

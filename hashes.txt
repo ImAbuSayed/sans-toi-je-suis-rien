@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sans Toi Je Suis Rien
+
+This log tracks the cryptographic history and versioning for the song **Sans Toi Je Suis Rien** (sans-toi-je-suis-rien).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:00:11.819719 | `v1` | `5933c6fcb6c4194cafc4d89a92f54823ee0b51841e18bcc005c3653c63ce4bef` | `7463198fc2bf6252c840bbf65b9044c8e7e52860dd2f9477ac999e6b825d2ab2` | `2026-06-25_sans-toi-je-suis-rien-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
